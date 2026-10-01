@@ -1,0 +1,250 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Cinzel', serif;
+}
+
+body {
+    position: relative;
+    min-height: 100vh;
+}
+
+#work {
+    position: absolute;
+    left: 6%;
+    top: 3%;
+    font-size: 18px;
+    color: #4d91aa;
+}
+
+#comp1 {
+    position: absolute;
+    left: 6%;
+    top: 8%;
+    font-size: 15px;
+}
+
+#comph1 {
+    position: absolute;
+    left: 6%;
+    top: 11%;
+    color: #555555;
+    font-size: 12px;
+
+}
+
+#compp1 {
+    position: absolute;
+    left: 6%;
+    top: 15%;
+    width: 45%;
+    font-size: 15px;
+}
+
+
+#comp2 {
+    position: absolute;
+    left: 6%;
+    top: 26%;
+    font-size: 15px;
+}
+
+#comph2 {
+    position: absolute;
+    left: 6%;
+    top: 29%;
+    color: #555555;
+    font-size: 12px;
+
+}
+
+#compp2 {
+    position: absolute;
+    left: 6%;
+    top: 34%;
+    width: 45%;
+    font-size: 15px;
+  
+}
+
+
+#comp3 {
+    position: absolute;
+    left: 6%;
+    top: 45%;
+    font-size: 15px;
+}
+
+#comph3 {
+    position: absolute;
+    left: 6%;
+    top: 48%;
+    color: #555555;
+    font-size: 12px;
+}
+
+#compp3 {
+    position: absolute;
+    left: 6%;
+    top: 53%;
+    width: 45%;
+    font-size: 15px;
+}
+
+#projects {
+    position: absolute;
+    left: 6%;
+    top: 65%;
+    font-size: 18px;
+    color: #4d91aa;
+}
+
+#project1 {
+    position: absolute;
+    left: 6%;
+    top: 71%;
+    color: #555555;
+    font-size: 13px;
+}
+
+#projectp1 {
+    position: absolute;
+    left: 6%;
+    top: 76%;
+    width: 45%;
+    font-size: 15px;
+
+}
+
+#project2 {
+    position: absolute;
+    left: 6%;
+    top: 86%;
+    color: #555555;
+    font-size: 13px;
+}
+
+#projectp2 {
+    position: absolute;
+    left: 6%;
+    top: 91%;
+    width: 45%;
+    font-size: 15px;
+
+}
+
+#education {
+    position: absolute;
+    left: 59.5%;
+    top: 3%;
+    font-size: 18px;
+    color: #4d91aa;
+}
+
+#school1 {
+    position: absolute;
+    left: 59.5%;
+    top: 8%;
+    font-size: 15px;
+}
+
+#schooldate1 {
+    position: absolute;
+    left: 59.5%;
+    top: 11%;
+    color: #555555;
+    font-size: 12px;
+}
+
+#schoolp1 {
+    position: absolute;
+    left: 59.5%;
+    top: 15%;
+    width: 34%;
+    font-size: 15px;
+
+}
+
+
+#school2 {
+    position: absolute;
+    left: 59.5%;
+    top: 26%;
+    font-size: 15px;
+}
+
+#schooldate2 {
+    position: absolute;
+    left: 59.5%;
+    top: 29%;
+    color: #555555;
+    font-size: 12px;
+
+}
+
+#schoolp2 {
+    position: absolute;
+    left: 59.5%;
+    top: 34%;
+    width: 34%;
+    font-size: 15px;
+}
+
+#languages {
+    position: absolute;
+    left: 59.5%;
+    top: 49%;
+    font-size: 18px;
+    color: #4d91aa;
+}
+
+#english {
+    position: absolute;
+    left: 59.5%;
+    top: 56%;
+    font-size: 15px;
+}
+
+#danish {
+    position: absolute;
+    left: 59.5%;
+    top: 60%;
+    font-size: 15px;
+}
+
+#itskills {
+    position: absolute;
+    left: 59.5%;
+    top: 67%;
+    font-size: 18px;
+    color: #4d91aa;
+}
+
+#office {
+    position: absolute;
+    left: 59.5%;
+    top: 74%;
+    font-size: 15px;
+}
+
+#photoshop {
+    position: absolute;
+    left: 59.5%;
+    top: 78%;
+    font-size: 15px;
+}
+
+#illustrator {
+    position: absolute;
+    left: 59.5%;
+    top: 82%;
+    font-size: 15px;
+}
+
+#superoffice {
+    position: absolute;
+    left: 59.5%;
+    top: 86%;
+    font-size: 15px;
+}
